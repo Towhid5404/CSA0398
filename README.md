@@ -7,10 +7,11 @@
 ![image](https://user-images.githubusercontent.com/113330878/214250120-735c9247-b838-4dbc-8e8d-a2f993a5974f.png)
 ## Experiment 3
 [Experiment 3 source code](https://github.com/Towhid5404/CSA0398/blob/main/3.Factorial%20of%20a%20given%20number%20without%20using%20Recursion.c)
-
+![image](https://user-images.githubusercontent.com/113330878/214251690-65571db8-ffac-45f6-9a9c-b5ee128b4de2.png)
 ## Experiment 4
 [Experiment 4 source code](https://github.com/Towhid5404/CSA0398/blob/main/4.Fibonacci%20series%20without%20using%20Recursion.c)
-
-
+![image](https://user-images.githubusercontent.com/113330878/214252218-2e32aad2-7546-4f56-a228-ef27bc3c71d7.png)
 ## Experiment 5
 [Experiment 5 source code](https://github.com/Towhid5404/CSA0398/blob/main/5.Factorial%20of%20a%20given%20number%20using%20Recursion.c)
+![image](https://user-images.githubusercontent.com/113330878/214252781-fd6b7ec2-a2c1-45cd-b437-d11445d9edfa.png)
+
