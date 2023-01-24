@@ -14,4 +14,12 @@
 ## Experiment 5
 [Experiment 5 source code](https://github.com/Towhid5404/CSA0398/blob/main/5.Factorial%20of%20a%20given%20number%20using%20Recursion.c)
 ![image](https://user-images.githubusercontent.com/113330878/214252781-fd6b7ec2-a2c1-45cd-b437-d11445d9edfa.png)
+## Experiment 6
+[Experiment 6 source code](https://github.com/Towhid5404/CSA0398/blob/main/6.Fibonacci%20series%20using%20Recursion.c)
+## Experiment 7
+[Experiment 7  insertion source code](https://github.com/Towhid5404/CSA0398/blob/main/7.insertion.c)
+## Experiment 7
+[Experiment 7 deletion source code](https://github.com/Towhid5404/CSA0398/blob/main/7.deletion.c)
+## Experiment 8
+[Experiment 8 source code](https://github.com/Towhid5404/CSA0398/blob/main/8.search%20a%20number%20using%20Linear%20Search%20method.c)
 
