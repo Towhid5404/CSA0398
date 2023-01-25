@@ -27,11 +27,13 @@
 [Experiment 8 source code](https://github.com/Towhid5404/CSA0398/blob/main/8.search%20a%20number%20using%20Linear%20Search%20method.c)
 ![image](https://user-images.githubusercontent.com/113330878/214508588-cbc490fd-bff8-4f0f-a1c6-d849a9f57f15.png)
 ## Experiment 9
-[Experiment 9 source code]
+[Experiment 9 source code](https://github.com/Towhid5404/CSA0398/blob/main/9.binary%20search)
+![WhatsApp Image 2023-01-25 at 13 28 44](https://user-images.githubusercontent.com/113330878/214511852-ef932155-5a13-43e3-963c-fb891bc14832.jpg)
 ## Experiment 10
-[Experiment 10 source code]
+[Experiment 10 source code](https://github.com/Towhid5404/CSA0398/blob/main/10.linked%20list)
+![image](https://user-images.githubusercontent.com/113330878/214512983-de9a54f9-6920-441e-aee6-6c48446f377a.png)
 ## Experiment 11
-[Experiment 11 source code]
+[Experiment 11 source code]
 ## Experiment 12
 [Experiment 12 source code]
 ## Experiment 13
