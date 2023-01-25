@@ -33,13 +33,26 @@
 [Experiment 10 source code](https://github.com/Towhid5404/CSA0398/blob/main/10.linked%20list)
 ![image](https://user-images.githubusercontent.com/113330878/214512983-de9a54f9-6920-441e-aee6-6c48446f377a.png)
 ## Experiment 11
-[Experiment 11 source code]
+[Experiment 11 source code](https://github.com/Towhid5404/CSA0398/blob/main/11.stack%20operation)
+![image](https://user-images.githubusercontent.com/113330878/214514329-9884b863-ccad-45b5-9b7d-959b0770aea1.png)
 ## Experiment 12
-[Experiment 12 source code]
+[Experiment 12 source code](https://github.com/Towhid5404/CSA0398/blob/main/12.stack%20notations)
+![image](https://user-images.githubusercontent.com/113330878/214517076-d46cbd11-a601-4b07-9095-3be83dcec578.png)
 ## Experiment 13
-[Experiment 13 source code]
+[Experiment 13 source code](https://github.com/Towhid5404/CSA0398/blob/main/13.queue)
+![image](https://user-images.githubusercontent.com/113330878/214515695-e5bd82e0-522e-4afe-8e02-860ba9b1c520.png)
 ## Experiment 14
-[Experiment 14 source code]
+[Experiment 14 source code](https://github.com/Towhid5404/CSA0398/blob/main/14.tree%20transversal)
+![image](https://user-images.githubusercontent.com/113330878/214518034-91d478c1-39c5-4999-a8c5-0931c6009994.png)
 ## Experiment 15
-[Experiment 15 source code]
-
+[Experiment 15 source code](https://github.com/Towhid5404/CSA0398/blob/main/15.hashing%20using%20linear%20probling)
+![image](https://user-images.githubusercontent.com/113330878/214518660-be0d990c-bdd4-40cb-894d-fe3f3eee370f.png)
+## Experiment 16
+[Experiment 16 source code](https://github.com/Towhid5404/CSA0398/blob/main/16.insertion%20sort)
+![image](https://user-images.githubusercontent.com/113330878/214519404-67f0c23b-b620-4523-9754-f152a0aba476.png)
+## Experiment 17
+[Experiment 17 source code](https://github.com/Towhid5404/CSA0398/blob/main/17.merge%20sort)
+![image](https://user-images.githubusercontent.com/113330878/214520200-20845524-e717-4c95-94da-553894d05ba4.png)
+## Experiment 18
+[Experiment 18 source code](https://github.com/Towhid5404/CSA0398/blob/main/18.quicksoort%20numb%20er%20of%20series)
+![image](https://user-images.githubusercontent.com/113330878/214521356-d0d433a1-d4ca-49ff-ac25-d0a1cf0b856c.png)
