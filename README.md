@@ -56,3 +56,21 @@
 ## Experiment 18
 [Experiment 18 source code](https://github.com/Towhid5404/CSA0398/blob/main/18.quicksoort%20numb%20er%20of%20series)
 ![image](https://user-images.githubusercontent.com/113330878/214521356-d0d433a1-d4ca-49ff-ac25-d0a1cf0b856c.png)
+## Experiment 19
+[Experiment 19 source code](https://github.com/Towhid5404/CSA0398/blob/main/19.implementation%20of%20heap%20sort)
+![image](https://user-images.githubusercontent.com/113330878/215343011-c8d7d2fb-eb27-4c48-9b36-245e237538d2.png)
+## Experiment 20
+[Experiment 20 source code](https://github.com/Towhid5404/CSA0398/blob/main/20.AVL%20insertion%20deletion%20%2Csearching)
+![image](https://user-images.githubusercontent.com/113330878/215343107-6b53318c-12e2-477a-992d-d3002f0558d6.png)
+## Experiment 21
+[Experiment 21 source code](https://github.com/Towhid5404/CSA0398/blob/main/21.breadth%20first%20search)
+![image](https://user-images.githubusercontent.com/113330878/215343233-937c79bb-6003-4285-bb0f-af40a41cf110.png)
+## Experiment 22
+[Experiment 22 source code](https://github.com/Towhid5404/CSA0398/blob/main/22.depth%20first%20search)
+![image](https://user-images.githubusercontent.com/113330878/215343447-a8910c37-d534-4223-86e7-d60a2129d42e.png)
+## Experiment 24
+[Experiment 24 source code](https://github.com/Towhid5404/CSA0398/blob/main/24.minimum%20spanning%20tree%20using%20prim's%20algorithm)
+![image](https://user-images.githubusercontent.com/113330878/215343489-38d614bd-fc90-4455-80ef-aa0e1ca19ed1.png)
+## Experiment 25
+[Experiment 25 source code](https://github.com/Towhid5404/CSA0398/blob/main/25.kruskal's%20algorithm)
+![image](https://user-images.githubusercontent.com/113330878/215343545-e1726b14-0dc1-4658-9e22-3db4d583ef83.png)
