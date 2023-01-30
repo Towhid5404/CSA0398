@@ -69,7 +69,7 @@
 [Experiment 22 source code](https://github.com/Towhid5404/CSA0398/blob/main/22.depth%20first%20search)
 ![image](https://user-images.githubusercontent.com/113330878/215343447-a8910c37-d534-4223-86e7-d60a2129d42e.png)
 ## Experiment 23
-[Experiment 23 source code]
+[Experiment 23 source code](https://github.com/Towhid5404/CSA0398/blob/main/23.shortest%20path%20dijkstra's%20algorithm)
 ## Experiment 24
 [Experiment 24 source code](https://github.com/Towhid5404/CSA0398/blob/main/24.minimum%20spanning%20tree%20using%20prim's%20algorithm)
 ![image](https://user-images.githubusercontent.com/113330878/215343489-38d614bd-fc90-4455-80ef-aa0e1ca19ed1.png)
